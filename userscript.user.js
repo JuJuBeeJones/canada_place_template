@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         r/place Canada Template
+// @name         r/place Got7
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  eh
-// @author       oralekin, sssata, irisxyzabc
+// @author       oralekin, sssata, irisxyzabc, JuJuBeeJones
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
