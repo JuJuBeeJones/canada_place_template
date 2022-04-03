@@ -1,6 +1,6 @@
-# Canada r/place Template Overlay
+# GOT7 r/place Template Overlay
 
-![image](https://user-images.githubusercontent.com/18311413/161397476-fb9b6458-ad64-42e5-a280-d49ddd5fd1b0.png)
+![image](https://raw.githubusercontent.com/JuJuBeeJones/canada_place_template/f9c741e2507b902ae04411e337f583445a1adbe5/Template-Example-1.png)
 
 
 # Installation Tutorial
